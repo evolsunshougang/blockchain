@@ -23,6 +23,7 @@ Email: boyu.liu@gmail.com
 * [区块链理论学习入门指南](https://daimajia.com/2017/08/24/how-to-start-blockchain-learning)
 * [对去中心化含义的深层思考：究竟是谁控制着区块链？](http://www.8btc.com/who-controls-blockchain)
 * [比原链联合创始人段新星：希望建立起连接比特世界和原子世界资产交互的桥梁](http://www.8btc.com/bytom-duanxinxing)
+* [市场炒作背后，什么是区块链的核心商业价值](https://mp.weixin.qq.com/s?__biz=MjM5MjI5MDQ0NQ==&mid=2650585974&idx=1&sn=992e8d2250f357ad9b54c1213db3fab5&chksm=bea0989489d71182e9ae301d2fc4b5f36213e93b5a2b9f16d6a53260157d088ebc9472b9ebbb&mpshare=1&scene=1&srcid=0822hEetmgiy8oZXQmpuze0R#rd)
 
 ### 相关文章
 
